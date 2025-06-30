@@ -49,7 +49,7 @@ You are my personal AI travel assistant. I want to plan a trip to Tokyo from Nai
 
 8. Find and recommend reputable local tour guides or agencies (e.g., Mount Fuji, food tours) with links, ratings, and prices.
 
-9. Format everything clearly and neatly so I can save and share it via email easily.
+9. Format everything clearly and neatly so I can save and share it easily.
 ```
 
 ## AI-Generated Trip Plan (PDF)
